@@ -36,7 +36,7 @@
   <!-- <a href="https://www.linkedin.com/in/gabriel-alves-19b8b421a/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" heigth="50" width="50">
   </a> -->
-  <a href="https://www.instagram.com/real_loks" target="blank">
+  <a href="https://www.instagram.com/gabrielalves.bm" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Instagram.svg" alt="Instagram" height="50" width="50" />
   </a>
 </p>
