@@ -9,12 +9,9 @@
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=GabrielAlvesBM&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Alves BM" />
 </p>
-
- 
-<p>
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" height="200px" align="right" />
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAlvesBM&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375" alt="0xabdulkhalid"/>
 </p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielAlvesBM&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
 
 ---
 
