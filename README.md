@@ -23,7 +23,7 @@
 
 [//]: # "- 📄 Meu site de [Portifólio](https://github.com/GabrielAlvesBM/)"
 
---- 
+---
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
