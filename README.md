@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <a href="https://github.com/GabrielAlvesBM"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&letterSpacing=&duration=2250&pause=1750&center=true&width=535&height=55&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Gabriel!;Seja+bem+vindo+ao+meu+Git." alt="Typing SVG" /></a>
 </p>
 
