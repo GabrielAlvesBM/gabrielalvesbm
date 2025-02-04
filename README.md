@@ -4,7 +4,6 @@
 
 ---
 
-
 <h3 align="center">Olá, me chamo Gabriel Alves! Sou Desenvolvedor Web dedicado a construir sites eficientes, limpos e intuitivos. Estou sempre em busca de novos projetos e colaborações empolgantes!</h3>
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=GabrielAlvesBM&label=Profile%20views&color=0e75b6&style=flat" alt="Gabriel Alves BM" />
