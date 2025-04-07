@@ -16,7 +16,7 @@
 
 - 🌱 Atualmente estou aprendendo **novos frameworks, novas tecnologias e novas ferramentas**
 
-- 👨‍💻 Estou aberto à estágios e novas oportunidades de emprego, este é o meu [Currículo](https://drive.google.com/file/d/1QuYj7RCTB1vbh80nQFdHilf3cR64NQD2/view?usp=drive_link)
+- 👨‍💻 Estagiando como dev front-end na [Guina](https://instituto.taqtile.com.br/)
 
 - 📫 Como chegar até mim: **gabrielalvesbm.contato@gmail.com**
 
