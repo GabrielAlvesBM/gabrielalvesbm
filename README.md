@@ -20,8 +20,6 @@
 
 - 📫 Como chegar até mim: **gabrielalvesbm.contato@gmail.com**
 
--  📄 [Portifólio](https://gabrielalves.me)
-
 ---
 
 <h3 align="center">Entre em contato:</h3>
