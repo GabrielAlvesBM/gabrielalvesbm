@@ -25,9 +25,11 @@
 <h3 align="center">Entre em contato:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/gabrielalvesbm/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn Profile" height="50" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" alt="LinkedIn Profile" height="50" width="50" />
   </a>
-</p>
+  <a href="https://www.gabrielalves.me/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/DevTo-Dark.svg" alt="Gabriel Alves Portfolio" height="50" width="50" />
+  </a>
 
 ---
 
