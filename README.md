@@ -14,9 +14,9 @@
 
 ---
 
-- 🌱 Atualmente estou aprendendo **novos frameworks, novas tecnologias e novas ferramentas**
+- 👨‍💻 Dev front-end na [Guina](https://instituto.taqtile.com.br/)
 
-- 👨‍💻 Estagiando como dev front-end na [Guina](https://instituto.taqtile.com.br/)
+- 🌱 Atualmente estou aprendendo **novos frameworks, novas tecnologias e novas ferramentas**
 
 - 📫 Como chegar até mim: **gabrielalvesbm.contato@gmail.com**
 
