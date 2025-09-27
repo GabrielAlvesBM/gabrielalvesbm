@@ -16,7 +16,9 @@
 
 - 👨‍💻 Dev front-end na [Guina](https://instituto.taqtile.com.br/)
 
-- 🌱 Atualmente estou aprendendo **novos frameworks, novas tecnologias e novas ferramentas**
+- 🔧 Principais ferramentas: Typescript, React, NextJs e NodeJs
+
+- 🌱 Desenvolvendo habilidades em **infraestrutura, mobile e back-end**, para me tornar **full-stack**
 
 - 📫 Como chegar até mim: **gabrielalvesbm.contato@gmail.com**
 
