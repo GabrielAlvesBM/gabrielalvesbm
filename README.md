@@ -14,7 +14,7 @@
 
 ---
 
-- 👨‍💻 Dev front-end na [Guina](https://instituto.taqtile.com.br/)
+- 👨‍💻 Dev front-end na [Auth Soft](https://www.authsoftsolutions.com)
 
 - 🔧 Principais ferramentas: Typescript, React, NextJs e NodeJs
 
