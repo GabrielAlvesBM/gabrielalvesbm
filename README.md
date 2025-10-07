@@ -18,8 +18,6 @@
 
 - 🔧 Principais ferramentas: Typescript, React, NextJs e NodeJs
 
-- 🌱 Desenvolvendo habilidades em **infraestrutura, mobile e back-end**, para me tornar **full-stack**
-
 - 📫 Como chegar até mim: **gabrielalvesbm.contato@gmail.com**
 
 ---
